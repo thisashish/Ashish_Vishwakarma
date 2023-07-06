@@ -166,7 +166,6 @@ section .title::after{
 .home{
     display: flex;
     background: url("avenue.jpg") no-repeat center;
-    
     height: 100vh;
     color: #fff;
     min-height: 500px;
